@@ -1,1 +1,0 @@
-{"version":3,"file":"carModel.d.ts","sourceRoot":"","sources":["carModel.ts"],"names":[],"mappings":"AAEA,MAAM,WAAW,IAAI;IACnB,IAAI,EAAE,MAAM,CAAC;IACb,KAAK,EAAE,MAAM,CAAC;IACd,IAAI,EAAE,MAAM,CAAC;IACb,YAAY,EAAE,MAAM,CAAC;IACrB,MAAM,EAAE,WAAW,GAAG,QAAQ,GAAG,aAAa,CAAC;CAChD;AAcD,eAAO,MAAM,QAAQ;;;;;;aAAgC,CAAC"}
